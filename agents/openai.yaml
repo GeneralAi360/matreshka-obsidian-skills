@@ -1,0 +1,4 @@
+interface:
+  display_name: "Matreshka Obsidian Skills"
+  short_description: "Безопасная работа с Obsidian и Matreshka OS"
+  default_prompt: "Use $matreshka-obsidian-skills to audit this Obsidian vault before making safe, reviewable changes."
