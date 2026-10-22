@@ -15,7 +15,7 @@
 |---|---|
 | `00_Inbox/` | новое и ещё не разобранное |
 | `01_System/` | Schema, Policies, Workflows, Templates, Routing, Maps, Indexes и Logs |
-| `05_Expert-Profile/` | устойчивый профессиональный контекст Alexander Shinkevich |
+| `05_Expert-Profile/` | устойчивый профессиональный контекст владельца |
 | `10_Personal/` | разрешённый личный контекст и рефлексия |
 | `15_Idea-Garden/` | идеи после triage, но до обязательства выполнить |
 | `20_Sources/00_Raw/` | неизменяемые оригиналы повторно используемых источников |
